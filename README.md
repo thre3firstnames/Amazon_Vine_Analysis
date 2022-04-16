@@ -13,20 +13,21 @@ Using Amazon AWS, PySpark, PostgresSQL, and Pandas, perform an analysis of produ
 ![totalnotvine.png](Analysis/totalnotvine.png)
 
 ### Total 5-Star Vine Reviews
-- **Total**: 613
+- **Total**: 222
 
 ![totalvine5star.png](Analysis/totalvine5star.png)
 ### Total 5-Star Non-Vine Reviews
-- **Total**: 64,968
+- **Total**: 30,543
 
 ![totalnotvine5star.png](Analysis/totalnotvine5star.png)
 
 ### Percentage of 5-Star Vine Reviews
-- **Total**: 613
+- **Total**: 36.21%
 
 ![totalvine5starpercent.png](Analysis/totalvine5star.png)
 ### Percentage of 5-Star Non-Vine Reviews
-- **Total**: 64,968
+- **Total**: 47.01%
 
 ![totalnotvine5starpercent.png](Analysis/totalnotvine5starpercent.png)
+
 

@@ -30,4 +30,8 @@ Using Amazon AWS, PySpark, PostgresSQL, and Pandas, perform an analysis of produ
 
 ![totalnotvine5starpercent.png](Analysis/totalnotvine5starpercent.png)
 
+## Summary
+Based on my analysis, I do believe there is a small amount positivity bias in this sample of reviews. Looking at the percentages of *’perfect’* scores, however, it seems like paid participants were more likely to be thoughtful about their reviews and give specific items truly-reflective ratings, rather than offer five stars in exchange for a payout. 
+
+Further examination of *helpful votes* vs *total votes* would be a good second step in this analysis. For example, ‘Did paid participants receive more helpful votes than non-paid participants?’ Or ‘Were average consumers more likely to trust those who hadn’t been paid to review an item?’ The mid-range [between 2 and 4] star ratings could be an interesting slice of this data on which to perform this analysis. 
 
